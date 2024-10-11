@@ -30,7 +30,7 @@ This project is part of the Retail Industry Project module, where the objective 
   - `source env/bin/activate` (On Windows use `env\Scripts\activate`)
   - `pip install -r requirements.txt`
 
-- Set up the MySQL database:
+## 3. Set up the MySQL database:
   - Create the database schema using the provided SQL file in the Data folder.
   - Configure your database credentials in `config.py`.
 
@@ -47,7 +47,7 @@ This project is part of the Retail Industry Project module, where the objective 
   - Write test cases for each new feature using PyTest and add them to the Tests folder.
   - Update the README.md and documentation files with any new changes or setup requirements.
 
-- Folder Structure Explanation:
+ ## 4. Folder Structure Explanation:
   - **Documentation**:
     - Requirements document detailing the goals and objectives of the sentiment analysis project.
     - Design specifications explaining the architecture, model choices, and processing pipeline.
